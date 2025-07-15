@@ -1,0 +1,6 @@
+langchain
+langchain-core
+langchain
+langchain-groq
+langchain-openai
+streamlit
